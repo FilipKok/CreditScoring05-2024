@@ -1,6 +1,5 @@
 # CreditScoring05-2024
-CreditScoringHomeCreditData05/2024
-
+This project is based on creating scoring models on Home Credit data published on Kaggle.
 
 All of the source files are in the link below: https://www.kaggle.com/c/home-credit-default-risk/data
 
@@ -14,3 +13,7 @@ All of the source files are in the link below: https://www.kaggle.com/c/home-cre
 
 Here is also the columns description: 
 HomeCredit_columns_description.csv
+
+
+To prepare the data, I used Python and Statistica software with the'Scoring Set' addition. 
+Statistica software was also used to create the models and they are located on a private local disk, but here I also make public the machine learning models that are used to compare these models.
