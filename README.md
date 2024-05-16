@@ -1,5 +1,5 @@
 # CreditScoring05-2024
-This project is based on creating scoring models on Home Credit data published on Kaggle.
+This project is about creating Credit Scoring Models based on on Home Credit data published on Kaggle.
 
 All of the source files are in the link below: https://www.kaggle.com/c/home-credit-default-risk/data
 
