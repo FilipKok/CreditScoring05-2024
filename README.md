@@ -17,3 +17,7 @@ HomeCredit_columns_description.csv
 
 To prepare the data, I used Python and Statistica software with the'Scoring Set' addition. 
 Statistica software was also used to create the models and they are located on a private local disk, but here I also make public the machine learning models that are used to compare these models.
+
+I didn't attach the csv files here, which are necessary to recreate the code and other statistics from Statistica, in order to keep them for myself due to copyright reasons.
+
+Enjoy yourself!
