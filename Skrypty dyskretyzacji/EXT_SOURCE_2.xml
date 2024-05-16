@@ -1,0 +1,76 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<version>10.0</version>
+<Categorization Script>
+<Header copyright="STATISTICA Scorecard, Copyright (c) StatSoft, Inc., www.statsoft.com."/>
+<Variable Name>EXT_SOURCE_2</Variable Name>
+<Destination Variable Name>EXT_SOURCE_2_kat</Destination Variable Name>
+
+<Variable Type>Numeric</Variable Type>
+<Categorization Type>Kategorie</Categorization Type>
+<Number of Categories>7</Number of Categories>
+<UniqueCategories>7</UniqueCategories>
+
+<Category>
+	<Category Name>(-inf,0,148153366></Category Name>
+	<WOE Value>-113,541165781416</WOE Value>
+	<IV>0,1166593445</IV>
+	<From></From>
+	<To>0,148153366</To>
+	<Exact Value>Empty</Exact Value>
+</Category>
+
+<Category>
+	<Category Name>(0,148153366,0,262258369></Category Name>
+	<WOE Value>-61,3473988382941</WOE Value>
+	<IV>0,0367744236</IV>
+	<From>0,148153366</From>
+	<To>0,262258369</To>
+	<Exact Value>Empty</Exact Value>
+</Category>
+
+<Category>
+	<Category Name>(0,262258369,0,517286782></Category Name>
+	<WOE Value>-19,1164588618746</WOE Value>
+	<IV>0,0109022452</IV>
+	<From>0,262258369</From>
+	<To>0,517286782</To>
+	<Exact Value>Empty</Exact Value>
+</Category>
+
+<Category>
+	<Category Name>(0,517286782,0,61593401></Category Name>
+	<WOE Value>14,1542345704228</WOE Value>
+	<IV>0,004000454</IV>
+	<From>0,517286782</From>
+	<To>0,61593401</To>
+	<Exact Value>Empty</Exact Value>
+</Category>
+
+<Category>
+	<Category Name>(0,61593401,0,659086874></Category Name>
+	<WOE Value>40,6957934526443</WOE Value>
+	<IV>0,016333452</IV>
+	<From>0,61593401</From>
+	<To>0,659086874</To>
+	<Exact Value>Empty</Exact Value>
+</Category>
+
+<Category>
+	<Category Name>(0,659086874,0,705529659></Category Name>
+	<WOE Value>60,4962903126685</WOE Value>
+	<IV>0,0355205956</IV>
+	<From>0,659086874</From>
+	<To>0,705529659</To>
+	<Exact Value>Empty</Exact Value>
+</Category>
+
+<Category>
+	<Category Name>(0,705529659,inf)</Category Name>
+	<WOE Value>100,238758392044</WOE Value>
+	<IV>0,0928285213</IV>
+	<From>0,705529659</From>
+	<To></To>
+	<Exact Value>Empty</Exact Value>
+</Category>
+
+</Categorization Script>

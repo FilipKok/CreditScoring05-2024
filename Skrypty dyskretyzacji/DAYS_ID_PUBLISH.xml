@@ -1,0 +1,49 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<version>10.0</version>
+<Categorization Script>
+<Header copyright="STATISTICA Scorecard, Copyright (c) StatSoft, Inc., www.statsoft.com."/>
+<Variable Name>DAYS_ID_PUBLISH</Variable Name>
+<Destination Variable Name>DAYS_ID_PUBLISH_kat</Destination Variable Name>
+
+<Variable Type>Numeric</Variable Type>
+<Categorization Type>Kategorie</Categorization Type>
+<Number of Categories>4</Number of Categories>
+<UniqueCategories>4</UniqueCategories>
+
+<Category>
+	<Category Name>(-inf,-4366></Category Name>
+	<WOE Value>28,9834759306741</WOE Value>
+	<IV>0,0166919871</IV>
+	<From></From>
+	<To>-4366</To>
+	<Exact Value>Empty</Exact Value>
+</Category>
+
+<Category>
+	<Category Name>(-4366,-3034></Category Name>
+	<WOE Value>7,81934859804239</WOE Value>
+	<IV>0,0018331811</IV>
+	<From>-4366</From>
+	<To>-3034</To>
+	<Exact Value>Empty</Exact Value>
+</Category>
+
+<Category>
+	<Category Name>(-3034,-1249></Category Name>
+	<WOE Value>-11,5124403633052</WOE Value>
+	<IV>0,0039708776</IV>
+	<From>-3034</From>
+	<To>-1249</To>
+	<Exact Value>Empty</Exact Value>
+</Category>
+
+<Category>
+	<Category Name>(-1249,inf)</Category Name>
+	<WOE Value>-23,3783696685144</WOE Value>
+	<IV>0,0108811114</IV>
+	<From>-1249</From>
+	<To></To>
+	<Exact Value>Empty</Exact Value>
+</Category>
+
+</Categorization Script>

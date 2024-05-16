@@ -1,0 +1,58 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<version>10.0</version>
+<Categorization Script>
+<Header copyright="STATISTICA Scorecard, Copyright (c) StatSoft, Inc., www.statsoft.com."/>
+<Variable Name>BUREAU_DAYS_CREDIT_ENDDATE_MEAN</Variable Name>
+<Destination Variable Name>BUREAU_DAYS_CREDIT_ENDDATE_MEAN_kat</Destination Variable Name>
+
+<Variable Type>Numeric</Variable Type>
+<Categorization Type>Kategorie</Categorization Type>
+<Number of Categories>5</Number of Categories>
+<UniqueCategories>4</UniqueCategories>
+
+<Category>
+	<Category Name>(-99999,-512,5></Category Name>
+	<WOE Value>39,4076072759433</WOE Value>
+	<IV>0,0369125594</IV>
+	<From>-99999</From>
+	<To>-512,5</To>
+	<Exact Value>Empty</Exact Value>
+</Category>
+
+<Category>
+	<Category Name>(-512,5,-230></Category Name>
+	<WOE Value>20,1469861514681</WOE Value>
+	<IV>0,0040470535</IV>
+	<From>-512,5</From>
+	<To>-230</To>
+	<Exact Value>Empty</Exact Value>
+</Category>
+
+<Category>
+	<Category Name>(-230,2846,6></Category Name>
+	<WOE Value>-11,8186330147091</WOE Value>
+	<IV>0,0055801168</IV>
+	<From>-230</From>
+	<To>2846,6</To>
+	<Exact Value>Empty</Exact Value>
+</Category>
+
+<Category>
+	<Category Name>>2846 & Brak</Category Name>
+	<WOE Value>-25,8103017583668</WOE Value>
+	<IV>0,0171746086</IV>
+	<From>2846,6</From>
+	<To></To>
+	<Exact Value>Empty</Exact Value>
+</Category>
+
+<Category>
+	<Category Name>>2846 & Brak</Category Name>
+	<WOE Value>-25,8103017583668</WOE Value>
+	<IV>0,0171746086232103</IV>
+	<From>Empty</From>
+	<To>Empty</To>
+	<Exact Value>-99999</Exact Value>
+</Category>
+
+</Categorization Script>

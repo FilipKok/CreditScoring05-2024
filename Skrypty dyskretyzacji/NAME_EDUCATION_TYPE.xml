@@ -1,0 +1,58 @@
+<version>10.0</version>
+<?xml version="1.0" encoding="UTF-8" ?>
+<Categorization Script>
+<Header copyright="STATISTICA Scorecard, Copyright (c) StatSoft, Inc., www.statsoft.com."/>
+<Variable Name>NAME_EDUCATION_TYPE</Variable Name>
+<Destination Variable Name>NAME_EDUCATION_TYPE_kat</Destination Variable Name>
+
+<Variable Type>Categorical</Variable Type>
+<Categorization Type>Kategorie</Categorization Type>
+<Number of Categories>5</Number of Categories>
+<UniqueCategories>2</UniqueCategories>
+
+<Category>
+	<Category Name><= Secondary</Category Name>
+	<WOE Value>-11,4907345077408</WOE Value>
+	<IV>0,0104710645</IV>
+	<From>Empty</From>
+	<To>Empty</To>
+	<Exact Value>Secondary / secondary special</Exact Value>
+</Category>
+
+<Category>
+	<Category Name><= Secondary</Category Name>
+	<WOE Value>-11,4907345077408</WOE Value>
+	<IV>0,0104710645</IV>
+	<From>Empty</From>
+	<To>Empty</To>
+	<Exact Value>Incomplete higher</Exact Value>
+</Category>
+
+<Category>
+	<Category Name><= Secondary</Category Name>
+	<WOE Value>-11,4907345077408</WOE Value>
+	<IV>0,0104710645</IV>
+	<From>Empty</From>
+	<To>Empty</To>
+	<Exact Value>Lower secondary</Exact Value>
+</Category>
+
+<Category>
+	<Category Name>Higher</Category Name>
+	<WOE Value>44,9595858001032</WOE Value>
+	<IV>0,0409699417</IV>
+	<From>Empty</From>
+	<To>Empty</To>
+	<Exact Value>Higher education</Exact Value>
+</Category>
+
+<Category>
+	<Category Name>Higher</Category Name>
+	<WOE Value>44,9595858001032</WOE Value>
+	<IV>0,0409699417</IV>
+	<From>Empty</From>
+	<To>Empty</To>
+	<Exact Value>Academic degree</Exact Value>
+</Category>
+
+</Categorization Script>

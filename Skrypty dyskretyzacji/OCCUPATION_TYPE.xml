@@ -1,0 +1,184 @@
+<version>10.0</version>
+<?xml version="1.0" encoding="UTF-8" ?>
+<Categorization Script>
+<Header copyright="STATISTICA Scorecard, Copyright (c) StatSoft, Inc., www.statsoft.com."/>
+<Variable Name>OCCUPATION_TYPE</Variable Name>
+<Destination Variable Name>OCCUPATION_TYPE_kat</Destination Variable Name>
+
+<Variable Type>Categorical</Variable Type>
+<Categorization Type>Kategorie</Categorization Type>
+<Number of Categories>19</Number of Categories>
+<UniqueCategories>5</UniqueCategories>
+
+<Category>
+	<Category Name>Drivers_Low-skill La_etc</Category Name>
+	<WOE Value>-40,4957373331347</WOE Value>
+	<IV>0,018197736</IV>
+	<From>Empty</From>
+	<To>Empty</To>
+	<Exact Value>Security staff</Exact Value>
+</Category>
+
+<Category>
+	<Category Name>Drivers_Low-skill La_etc</Category Name>
+	<WOE Value>-40,4957373331347</WOE Value>
+	<IV>0,018197736</IV>
+	<From>Empty</From>
+	<To>Empty</To>
+	<Exact Value>Drivers</Exact Value>
+</Category>
+
+<Category>
+	<Category Name>Drivers_Low-skill La_etc</Category Name>
+	<WOE Value>-40,4957373331347</WOE Value>
+	<IV>0,018197736</IV>
+	<From>Empty</From>
+	<To>Empty</To>
+	<Exact Value>Low-skill Laborers</Exact Value>
+</Category>
+
+<Category>
+	<Category Name>Drivers_Low-skill La_etc</Category Name>
+	<WOE Value>-40,4957373331347</WOE Value>
+	<IV>0,018197736</IV>
+	<From>Empty</From>
+	<To>Empty</To>
+	<Exact Value>Waiters/barmen staff</Exact Value>
+</Category>
+
+<Category>
+	<Category Name>Cooking staff_Labore_etc</Category Name>
+	<WOE Value>-30,3912017454783</WOE Value>
+	<IV>0,0208329008</IV>
+	<From>Empty</From>
+	<To>Empty</To>
+	<Exact Value>Laborers</Exact Value>
+</Category>
+
+<Category>
+	<Category Name>Cooking staff_Labore_etc</Category Name>
+	<WOE Value>-30,3912017454783</WOE Value>
+	<IV>0,0208329008</IV>
+	<From>Empty</From>
+	<To>Empty</To>
+	<Exact Value>Cooking staff</Exact Value>
+</Category>
+
+<Category>
+	<Category Name>Realty agents_Sales _etc</Category Name>
+	<WOE Value>-20,305321494462</WOE Value>
+	<IV>0,0054696041</IV>
+	<From>Empty</From>
+	<To>Empty</To>
+	<Exact Value>Cleaning staff</Exact Value>
+</Category>
+
+<Category>
+	<Category Name>Realty agents_Sales _etc</Category Name>
+	<WOE Value>-20,305321494462</WOE Value>
+	<IV>0,0054696041</IV>
+	<From>Empty</From>
+	<To>Empty</To>
+	<Exact Value>Sales staff</Exact Value>
+</Category>
+
+<Category>
+	<Category Name>Realty agents_Sales _etc</Category Name>
+	<WOE Value>-20,305321494462</WOE Value>
+	<IV>0,0054696041</IV>
+	<From>Empty</From>
+	<To>Empty</To>
+	<Exact Value>Realty agents</Exact Value>
+</Category>
+
+<Category>
+	<Category Name>Secretaries_Private _etc</Category Name>
+	<WOE Value>22,9845183063237</WOE Value>
+	<IV>0,0170595963</IV>
+	<From>Empty</From>
+	<To>Empty</To>
+	<Exact Value>Brak Danych</Exact Value>
+</Category>
+
+<Category>
+	<Category Name>Secretaries_Private _etc</Category Name>
+	<WOE Value>22,9845183063237</WOE Value>
+	<IV>0,0170595963</IV>
+	<From>Empty</From>
+	<To>Empty</To>
+	<Exact Value>Medicine staff</Exact Value>
+</Category>
+
+<Category>
+	<Category Name>Secretaries_Private _etc</Category Name>
+	<WOE Value>22,9845183063237</WOE Value>
+	<IV>0,0170595963</IV>
+	<From>Empty</From>
+	<To>Empty</To>
+	<Exact Value>Private service staff</Exact Value>
+</Category>
+
+<Category>
+	<Category Name>Secretaries_Private _etc</Category Name>
+	<WOE Value>22,9845183063237</WOE Value>
+	<IV>0,0170595963</IV>
+	<From>Empty</From>
+	<To>Empty</To>
+	<Exact Value>Secretaries</Exact Value>
+</Category>
+
+<Category>
+	<Category Name>Managers_Accountants_etc</Category Name>
+	<WOE Value>32,9426165358059</WOE Value>
+	<IV>0,0218084116</IV>
+	<From>Empty</From>
+	<To>Empty</To>
+	<Exact Value>Managers</Exact Value>
+</Category>
+
+<Category>
+	<Category Name>Managers_Accountants_etc</Category Name>
+	<WOE Value>32,9426165358059</WOE Value>
+	<IV>0,0218084116</IV>
+	<From>Empty</From>
+	<To>Empty</To>
+	<Exact Value>Accountants</Exact Value>
+</Category>
+
+<Category>
+	<Category Name>Managers_Accountants_etc</Category Name>
+	<WOE Value>32,9426165358059</WOE Value>
+	<IV>0,0218084116</IV>
+	<From>Empty</From>
+	<To>Empty</To>
+	<Exact Value>High skill tech staff</Exact Value>
+</Category>
+
+<Category>
+	<Category Name>Managers_Accountants_etc</Category Name>
+	<WOE Value>32,9426165358059</WOE Value>
+	<IV>0,0218084116</IV>
+	<From>Empty</From>
+	<To>Empty</To>
+	<Exact Value>Core staff</Exact Value>
+</Category>
+
+<Category>
+	<Category Name>Managers_Accountants_etc</Category Name>
+	<WOE Value>32,9426165358059</WOE Value>
+	<IV>0,0218084116</IV>
+	<From>Empty</From>
+	<To>Empty</To>
+	<Exact Value>HR staff</Exact Value>
+</Category>
+
+<Category>
+	<Category Name>Managers_Accountants_etc</Category Name>
+	<WOE Value>32,9426165358059</WOE Value>
+	<IV>0,0218084116</IV>
+	<From>Empty</From>
+	<To>Empty</To>
+	<Exact Value>IT staff</Exact Value>
+</Category>
+
+</Categorization Script>

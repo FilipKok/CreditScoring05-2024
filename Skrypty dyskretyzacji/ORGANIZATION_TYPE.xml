@@ -1,0 +1,535 @@
+<version>10.0</version>
+<?xml version="1.0" encoding="UTF-8" ?>
+<Categorization Script>
+<Header copyright="STATISTICA Scorecard, Copyright (c) StatSoft, Inc., www.statsoft.com."/>
+<Variable Name>ORGANIZATION_TYPE</Variable Name>
+<Destination Variable Name>ORGANIZATION_TYPE_kat</Destination Variable Name>
+
+<Variable Type>Categorical</Variable Type>
+<Categorization Type>Kategorie</Categorization Type>
+<Number of Categories>58</Number of Categories>
+<UniqueCategories>6</UniqueCategories>
+
+<Category>
+	<Category Name>Self-employed</Category Name>
+	<WOE Value>-25,0365541949942</WOE Value>
+	<IV>0,008744456</IV>
+	<From>Empty</From>
+	<To>Empty</To>
+	<Exact Value>Self-employed</Exact Value>
+</Category>
+
+<Category>
+	<Category Name>Mobile_Trade: type 1_etc</Category Name>
+	<WOE Value>-13,434113207917</WOE Value>
+	<IV>0,0066291725</IV>
+	<From>Empty</From>
+	<To>Empty</To>
+	<Exact Value>Business Entity Type 3</Exact Value>
+</Category>
+
+<Category>
+	<Category Name>Mobile_Trade: type 1_etc</Category Name>
+	<WOE Value>-13,434113207917</WOE Value>
+	<IV>0,0066291725</IV>
+	<From>Empty</From>
+	<To>Empty</To>
+	<Exact Value>Business Entity Type 2</Exact Value>
+</Category>
+
+<Category>
+	<Category Name>Mobile_Trade: type 1_etc</Category Name>
+	<WOE Value>-13,434113207917</WOE Value>
+	<IV>0,0066291725</IV>
+	<From>Empty</From>
+	<To>Empty</To>
+	<Exact Value>Trade: type 7</Exact Value>
+</Category>
+
+<Category>
+	<Category Name>Mobile_Trade: type 1_etc</Category Name>
+	<WOE Value>-13,434113207917</WOE Value>
+	<IV>0,0066291725</IV>
+	<From>Empty</From>
+	<To>Empty</To>
+	<Exact Value>Industry: type 7</Exact Value>
+</Category>
+
+<Category>
+	<Category Name>Mobile_Trade: type 1_etc</Category Name>
+	<WOE Value>-13,434113207917</WOE Value>
+	<IV>0,0066291725</IV>
+	<From>Empty</From>
+	<To>Empty</To>
+	<Exact Value>Business Entity Type 1</Exact Value>
+</Category>
+
+<Category>
+	<Category Name>Mobile_Trade: type 1_etc</Category Name>
+	<WOE Value>-13,434113207917</WOE Value>
+	<IV>0,0066291725</IV>
+	<From>Empty</From>
+	<To>Empty</To>
+	<Exact Value>Industry: type 11</Exact Value>
+</Category>
+
+<Category>
+	<Category Name>Mobile_Trade: type 1_etc</Category Name>
+	<WOE Value>-13,434113207917</WOE Value>
+	<IV>0,0066291725</IV>
+	<From>Empty</From>
+	<To>Empty</To>
+	<Exact Value>Emergency</Exact Value>
+</Category>
+
+<Category>
+	<Category Name>Mobile_Trade: type 1_etc</Category Name>
+	<WOE Value>-13,434113207917</WOE Value>
+	<IV>0,0066291725</IV>
+	<From>Empty</From>
+	<To>Empty</To>
+	<Exact Value>Advertising</Exact Value>
+</Category>
+
+<Category>
+	<Category Name>Mobile_Trade: type 1_etc</Category Name>
+	<WOE Value>-13,434113207917</WOE Value>
+	<IV>0,0066291725</IV>
+	<From>Empty</From>
+	<To>Empty</To>
+	<Exact Value>Transport: type 4</Exact Value>
+</Category>
+
+<Category>
+	<Category Name>Mobile_Trade: type 1_etc</Category Name>
+	<WOE Value>-13,434113207917</WOE Value>
+	<IV>0,0066291725</IV>
+	<From>Empty</From>
+	<To>Empty</To>
+	<Exact Value>Industry: type 4</Exact Value>
+</Category>
+
+<Category>
+	<Category Name>Mobile_Trade: type 1_etc</Category Name>
+	<WOE Value>-13,434113207917</WOE Value>
+	<IV>0,0066291725</IV>
+	<From>Empty</From>
+	<To>Empty</To>
+	<Exact Value>Housing</Exact Value>
+</Category>
+
+<Category>
+	<Category Name>Mobile_Trade: type 1_etc</Category Name>
+	<WOE Value>-13,434113207917</WOE Value>
+	<IV>0,0066291725</IV>
+	<From>Empty</From>
+	<To>Empty</To>
+	<Exact Value>Trade: type 1</Exact Value>
+</Category>
+
+<Category>
+	<Category Name>Mobile_Trade: type 1_etc</Category Name>
+	<WOE Value>-13,434113207917</WOE Value>
+	<IV>0,0066291725</IV>
+	<From>Empty</From>
+	<To>Empty</To>
+	<Exact Value>Mobile</Exact Value>
+</Category>
+
+<Category>
+	<Category Name>Industry: type 6_Ind_etc</Category Name>
+	<WOE Value>45,4465115995978</WOE Value>
+	<IV>0,0358513795</IV>
+	<From>Empty</From>
+	<To>Empty</To>
+	<Exact Value>Military</Exact Value>
+</Category>
+
+<Category>
+	<Category Name>Industry: type 6_Ind_etc</Category Name>
+	<WOE Value>45,4465115995978</WOE Value>
+	<IV>0,0358513795</IV>
+	<From>Empty</From>
+	<To>Empty</To>
+	<Exact Value>XNA</Exact Value>
+</Category>
+
+<Category>
+	<Category Name>Industry: type 6_Ind_etc</Category Name>
+	<WOE Value>45,4465115995978</WOE Value>
+	<IV>0,0358513795</IV>
+	<From>Empty</From>
+	<To>Empty</To>
+	<Exact Value>Police</Exact Value>
+</Category>
+
+<Category>
+	<Category Name>Industry: type 6_Ind_etc</Category Name>
+	<WOE Value>45,4465115995978</WOE Value>
+	<IV>0,0358513795</IV>
+	<From>Empty</From>
+	<To>Empty</To>
+	<Exact Value>Industry: type 12</Exact Value>
+</Category>
+
+<Category>
+	<Category Name>Industry: type 6_Ind_etc</Category Name>
+	<WOE Value>45,4465115995978</WOE Value>
+	<IV>0,0358513795</IV>
+	<From>Empty</From>
+	<To>Empty</To>
+	<Exact Value>Insurance</Exact Value>
+</Category>
+
+<Category>
+	<Category Name>Industry: type 6_Ind_etc</Category Name>
+	<WOE Value>45,4465115995978</WOE Value>
+	<IV>0,0358513795</IV>
+	<From>Empty</From>
+	<To>Empty</To>
+	<Exact Value>University</Exact Value>
+</Category>
+
+<Category>
+	<Category Name>Industry: type 6_Ind_etc</Category Name>
+	<WOE Value>45,4465115995978</WOE Value>
+	<IV>0,0358513795</IV>
+	<From>Empty</From>
+	<To>Empty</To>
+	<Exact Value>Trade: type 6</Exact Value>
+</Category>
+
+<Category>
+	<Category Name>Industry: type 6_Ind_etc</Category Name>
+	<WOE Value>45,4465115995978</WOE Value>
+	<IV>0,0358513795</IV>
+	<From>Empty</From>
+	<To>Empty</To>
+	<Exact Value>Transport: type 1</Exact Value>
+</Category>
+
+<Category>
+	<Category Name>Industry: type 6_Ind_etc</Category Name>
+	<WOE Value>45,4465115995978</WOE Value>
+	<IV>0,0358513795</IV>
+	<From>Empty</From>
+	<To>Empty</To>
+	<Exact Value>Trade: type 4</Exact Value>
+</Category>
+
+<Category>
+	<Category Name>Industry: type 6_Ind_etc</Category Name>
+	<WOE Value>45,4465115995978</WOE Value>
+	<IV>0,0358513795</IV>
+	<From>Empty</From>
+	<To>Empty</To>
+	<Exact Value>Industry: type 10</Exact Value>
+</Category>
+
+<Category>
+	<Category Name>Industry: type 6_Ind_etc</Category Name>
+	<WOE Value>45,4465115995978</WOE Value>
+	<IV>0,0358513795</IV>
+	<From>Empty</From>
+	<To>Empty</To>
+	<Exact Value>Industry: type 6</Exact Value>
+</Category>
+
+<Category>
+	<Category Name>Religion_Culture_Ind_etc</Category Name>
+	<WOE Value>28,4400152866671</WOE Value>
+	<IV>0,0063127657</IV>
+	<From>Empty</From>
+	<To>Empty</To>
+	<Exact Value>Medicine</Exact Value>
+</Category>
+
+<Category>
+	<Category Name>Religion_Culture_Ind_etc</Category Name>
+	<WOE Value>28,4400152866671</WOE Value>
+	<IV>0,0063127657</IV>
+	<From>Empty</From>
+	<To>Empty</To>
+	<Exact Value>School</Exact Value>
+</Category>
+
+<Category>
+	<Category Name>Religion_Culture_Ind_etc</Category Name>
+	<WOE Value>28,4400152866671</WOE Value>
+	<IV>0,0063127657</IV>
+	<From>Empty</From>
+	<To>Empty</To>
+	<Exact Value>Security Ministries</Exact Value>
+</Category>
+
+<Category>
+	<Category Name>Religion_Culture_Ind_etc</Category Name>
+	<WOE Value>28,4400152866671</WOE Value>
+	<IV>0,0063127657</IV>
+	<From>Empty</From>
+	<To>Empty</To>
+	<Exact Value>Bank</Exact Value>
+</Category>
+
+<Category>
+	<Category Name>Religion_Culture_Ind_etc</Category Name>
+	<WOE Value>28,4400152866671</WOE Value>
+	<IV>0,0063127657</IV>
+	<From>Empty</From>
+	<To>Empty</To>
+	<Exact Value>Hotel</Exact Value>
+</Category>
+
+<Category>
+	<Category Name>Religion_Culture_Ind_etc</Category Name>
+	<WOE Value>28,4400152866671</WOE Value>
+	<IV>0,0063127657</IV>
+	<From>Empty</From>
+	<To>Empty</To>
+	<Exact Value>Telecom</Exact Value>
+</Category>
+
+<Category>
+	<Category Name>Religion_Culture_Ind_etc</Category Name>
+	<WOE Value>28,4400152866671</WOE Value>
+	<IV>0,0063127657</IV>
+	<From>Empty</From>
+	<To>Empty</To>
+	<Exact Value>Industry: type 2</Exact Value>
+</Category>
+
+<Category>
+	<Category Name>Religion_Culture_Ind_etc</Category Name>
+	<WOE Value>28,4400152866671</WOE Value>
+	<IV>0,0063127657</IV>
+	<From>Empty</From>
+	<To>Empty</To>
+	<Exact Value>Culture</Exact Value>
+</Category>
+
+<Category>
+	<Category Name>Religion_Culture_Ind_etc</Category Name>
+	<WOE Value>28,4400152866671</WOE Value>
+	<IV>0,0063127657</IV>
+	<From>Empty</From>
+	<To>Empty</To>
+	<Exact Value>Religion</Exact Value>
+</Category>
+
+<Category>
+	<Category Name>Industry: type 5_Ele_etc</Category Name>
+	<WOE Value>12,3210515993798</WOE Value>
+	<IV>0,0021993414</IV>
+	<From>Empty</From>
+	<To>Empty</To>
+	<Exact Value>Government</Exact Value>
+</Category>
+
+<Category>
+	<Category Name>Industry: type 5_Ele_etc</Category Name>
+	<WOE Value>12,3210515993798</WOE Value>
+	<IV>0,0021993414</IV>
+	<From>Empty</From>
+	<To>Empty</To>
+	<Exact Value>Other</Exact Value>
+</Category>
+
+<Category>
+	<Category Name>Industry: type 5_Ele_etc</Category Name>
+	<WOE Value>12,3210515993798</WOE Value>
+	<IV>0,0021993414</IV>
+	<From>Empty</From>
+	<To>Empty</To>
+	<Exact Value>Trade: type 2</Exact Value>
+</Category>
+
+<Category>
+	<Category Name>Industry: type 5_Ele_etc</Category Name>
+	<WOE Value>12,3210515993798</WOE Value>
+	<IV>0,0021993414</IV>
+	<From>Empty</From>
+	<To>Empty</To>
+	<Exact Value>Transport: type 2</Exact Value>
+</Category>
+
+<Category>
+	<Category Name>Industry: type 5_Ele_etc</Category Name>
+	<WOE Value>12,3210515993798</WOE Value>
+	<IV>0,0021993414</IV>
+	<From>Empty</From>
+	<To>Empty</To>
+	<Exact Value>Industry: type 9</Exact Value>
+</Category>
+
+<Category>
+	<Category Name>Industry: type 5_Ele_etc</Category Name>
+	<WOE Value>12,3210515993798</WOE Value>
+	<IV>0,0021993414</IV>
+	<From>Empty</From>
+	<To>Empty</To>
+	<Exact Value>Kindergarten</Exact Value>
+</Category>
+
+<Category>
+	<Category Name>Industry: type 5_Ele_etc</Category Name>
+	<WOE Value>12,3210515993798</WOE Value>
+	<IV>0,0021993414</IV>
+	<From>Empty</From>
+	<To>Empty</To>
+	<Exact Value>Postal</Exact Value>
+</Category>
+
+<Category>
+	<Category Name>Industry: type 5_Ele_etc</Category Name>
+	<WOE Value>12,3210515993798</WOE Value>
+	<IV>0,0021993414</IV>
+	<From>Empty</From>
+	<To>Empty</To>
+	<Exact Value>Services</Exact Value>
+</Category>
+
+<Category>
+	<Category Name>Industry: type 5_Ele_etc</Category Name>
+	<WOE Value>12,3210515993798</WOE Value>
+	<IV>0,0021993414</IV>
+	<From>Empty</From>
+	<To>Empty</To>
+	<Exact Value>Legal Services</Exact Value>
+</Category>
+
+<Category>
+	<Category Name>Industry: type 5_Ele_etc</Category Name>
+	<WOE Value>12,3210515993798</WOE Value>
+	<IV>0,0021993414</IV>
+	<From>Empty</From>
+	<To>Empty</To>
+	<Exact Value>Electricity</Exact Value>
+</Category>
+
+<Category>
+	<Category Name>Industry: type 5_Ele_etc</Category Name>
+	<WOE Value>12,3210515993798</WOE Value>
+	<IV>0,0021993414</IV>
+	<From>Empty</From>
+	<To>Empty</To>
+	<Exact Value>Industry: type 5</Exact Value>
+</Category>
+
+<Category>
+	<Category Name>Security_Constructio_etc</Category Name>
+	<WOE Value>-38,2554391926553</WOE Value>
+	<IV>0,0132598918</IV>
+	<From>Empty</From>
+	<To>Empty</To>
+	<Exact Value>Security</Exact Value>
+</Category>
+
+<Category>
+	<Category Name>Security_Constructio_etc</Category Name>
+	<WOE Value>-38,2554391926553</WOE Value>
+	<IV>0,0132598918</IV>
+	<From>Empty</From>
+	<To>Empty</To>
+	<Exact Value>Construction</Exact Value>
+</Category>
+
+<Category>
+	<Category Name>Security_Constructio_etc</Category Name>
+	<WOE Value>-38,2554391926553</WOE Value>
+	<IV>0,0132598918</IV>
+	<From>Empty</From>
+	<To>Empty</To>
+	<Exact Value>Industry: type 3</Exact Value>
+</Category>
+
+<Category>
+	<Category Name>Security_Constructio_etc</Category Name>
+	<WOE Value>-38,2554391926553</WOE Value>
+	<IV>0,0132598918</IV>
+	<From>Empty</From>
+	<To>Empty</To>
+	<Exact Value>Transport: type 3</Exact Value>
+</Category>
+
+<Category>
+	<Category Name>Security_Constructio_etc</Category Name>
+	<WOE Value>-38,2554391926553</WOE Value>
+	<IV>0,0132598918</IV>
+	<From>Empty</From>
+	<To>Empty</To>
+	<Exact Value>Trade: type 3</Exact Value>
+</Category>
+
+<Category>
+	<Category Name>Security_Constructio_etc</Category Name>
+	<WOE Value>-38,2554391926553</WOE Value>
+	<IV>0,0132598918</IV>
+	<From>Empty</From>
+	<To>Empty</To>
+	<Exact Value>Industry: type 1</Exact Value>
+</Category>
+
+<Category>
+	<Category Name>Security_Constructio_etc</Category Name>
+	<WOE Value>-38,2554391926553</WOE Value>
+	<IV>0,0132598918</IV>
+	<From>Empty</From>
+	<To>Empty</To>
+	<Exact Value>Restaurant</Exact Value>
+</Category>
+
+<Category>
+	<Category Name>Security_Constructio_etc</Category Name>
+	<WOE Value>-38,2554391926553</WOE Value>
+	<IV>0,0132598918</IV>
+	<From>Empty</From>
+	<To>Empty</To>
+	<Exact Value>Agriculture</Exact Value>
+</Category>
+
+<Category>
+	<Category Name>Security_Constructio_etc</Category Name>
+	<WOE Value>-38,2554391926553</WOE Value>
+	<IV>0,0132598918</IV>
+	<From>Empty</From>
+	<To>Empty</To>
+	<Exact Value>Realtor</Exact Value>
+</Category>
+
+<Category>
+	<Category Name>Security_Constructio_etc</Category Name>
+	<WOE Value>-38,2554391926553</WOE Value>
+	<IV>0,0132598918</IV>
+	<From>Empty</From>
+	<To>Empty</To>
+	<Exact Value>Industry: type 8</Exact Value>
+</Category>
+
+<Category>
+	<Category Name>Security_Constructio_etc</Category Name>
+	<WOE Value>-38,2554391926553</WOE Value>
+	<IV>0,0132598918</IV>
+	<From>Empty</From>
+	<To>Empty</To>
+	<Exact Value>Cleaning</Exact Value>
+</Category>
+
+<Category>
+	<Category Name>Security_Constructio_etc</Category Name>
+	<WOE Value>-38,2554391926553</WOE Value>
+	<IV>0,0132598918</IV>
+	<From>Empty</From>
+	<To>Empty</To>
+	<Exact Value>Industry: type 13</Exact Value>
+</Category>
+
+<Category>
+	<Category Name>Security_Constructio_etc</Category Name>
+	<WOE Value>-38,2554391926553</WOE Value>
+	<IV>0,0132598918</IV>
+	<From>Empty</From>
+	<To>Empty</To>
+	<Exact Value>Trade: type 5</Exact Value>
+</Category>
+
+</Categorization Script>

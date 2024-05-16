@@ -1,0 +1,40 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<version>10.0</version>
+<Categorization Script>
+<Header copyright="STATISTICA Scorecard, Copyright (c) StatSoft, Inc., www.statsoft.com."/>
+<Variable Name>AMT_GOODS_PRICE</Variable Name>
+<Destination Variable Name>AMT_GOODS_PRICE_kat</Destination Variable Name>
+
+<Variable Type>Numeric</Variable Type>
+<Categorization Type>Kategorie</Categorization Type>
+<Number of Categories>3</Number of Categories>
+<UniqueCategories>3</UniqueCategories>
+
+<Category>
+	<Category Name>(-inf,450000></Category Name>
+	<WOE Value>-17,2603130575752</WOE Value>
+	<IV>0,0164178235</IV>
+	<From></From>
+	<To>450000</To>
+	<Exact Value>Empty</Exact Value>
+</Category>
+
+<Category>
+	<Category Name>(450000,945000></Category Name>
+	<WOE Value>13,7524932209883</WOE Value>
+	<IV>0,0065868264</IV>
+	<From>450000</From>
+	<To>945000</To>
+	<Exact Value>Empty</Exact Value>
+</Category>
+
+<Category>
+	<Category Name>(945000,inf)</Category Name>
+	<WOE Value>48,7746577121914</WOE Value>
+	<IV>0,0230330584</IV>
+	<From>945000</From>
+	<To></To>
+	<Exact Value>Empty</Exact Value>
+</Category>
+
+</Categorization Script>

@@ -1,0 +1,58 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<version>10.0</version>
+<Categorization Script>
+<Header copyright="STATISTICA Scorecard, Copyright (c) StatSoft, Inc., www.statsoft.com."/>
+<Variable Name>POS_CASH_APP_COUNT</Variable Name>
+<Destination Variable Name>POS_CASH_APP_COUNT_kat</Destination Variable Name>
+
+<Variable Type>Numeric</Variable Type>
+<Categorization Type>Kategorie</Categorization Type>
+<Number of Categories>5</Number of Categories>
+<UniqueCategories>4</UniqueCategories>
+
+<Category>
+	<Category Name>(-inf,1></Category Name>
+	<WOE Value>-22,5884270627614</WOE Value>
+	<IV>0,0163403773</IV>
+	<From></From>
+	<To>1</To>
+	<Exact Value>Empty</Exact Value>
+</Category>
+
+<Category>
+	<Category Name>(1,2></Category Name>
+	<WOE Value>-3,85431717538229</WOE Value>
+	<IV>0,0003581734</IV>
+	<From>1</From>
+	<To>2</To>
+	<Exact Value>Empty</Exact Value>
+</Category>
+
+<Category>
+	<Category Name>(3,5) & Brak</Category Name>
+	<WOE Value>16,2906093705369</WOE Value>
+	<IV>0,0095260278</IV>
+	<From>2</From>
+	<To>5</To>
+	<Exact Value>Empty</Exact Value>
+</Category>
+
+<Category>
+	<Category Name>(5,inf)</Category Name>
+	<WOE Value>30,1003169928706</WOE Value>
+	<IV>0,0069702719</IV>
+	<From>5</From>
+	<To></To>
+	<Exact Value>Empty</Exact Value>
+</Category>
+
+<Category>
+	<Category Name>(3,5) & Brak</Category Name>
+	<WOE Value>16,2906093705369</WOE Value>
+	<IV>0,00952602776093809</IV>
+	<From>Empty</From>
+	<To>Empty</To>
+	<Exact Value>-99999</Exact Value>
+</Category>
+
+</Categorization Script>

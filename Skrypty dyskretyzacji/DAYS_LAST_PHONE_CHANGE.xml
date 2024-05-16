@@ -1,0 +1,49 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<version>10.0</version>
+<Categorization Script>
+<Header copyright="STATISTICA Scorecard, Copyright (c) StatSoft, Inc., www.statsoft.com."/>
+<Variable Name>DAYS_LAST_PHONE_CHANGE</Variable Name>
+<Destination Variable Name>DAYS_LAST_PHONE_CHANGE_kat</Destination Variable Name>
+
+<Variable Type>Numeric</Variable Type>
+<Categorization Type>Kategorie</Categorization Type>
+<Number of Categories>4</Number of Categories>
+<UniqueCategories>4</UniqueCategories>
+
+<Category>
+	<Category Name>(-inf,-2044></Category Name>
+	<WOE Value>43,3284417736214</WOE Value>
+	<IV>0,0185012651</IV>
+	<From></From>
+	<To>-2044</To>
+	<Exact Value>Empty</Exact Value>
+</Category>
+
+<Category>
+	<Category Name>(-2044,-916></Category Name>
+	<WOE Value>17,8187812305743</WOE Value>
+	<IV>0,0094995576</IV>
+	<From>-2044</From>
+	<To>-916</To>
+	<Exact Value>Empty</Exact Value>
+</Category>
+
+<Category>
+	<Category Name>(-916,-321></Category Name>
+	<WOE Value>-11,8828785111142</WOE Value>
+	<IV>0,0042312188</IV>
+	<From>-916</From>
+	<To>-321</To>
+	<Exact Value>Empty</Exact Value>
+</Category>
+
+<Category>
+	<Category Name>(-321,0></Category Name>
+	<WOE Value>-20,2084003276467</WOE Value>
+	<IV>0,0122067641</IV>
+	<From>-321</From>
+	<To>0</To>
+	<Exact Value>Empty</Exact Value>
+</Category>
+
+</Categorization Script>

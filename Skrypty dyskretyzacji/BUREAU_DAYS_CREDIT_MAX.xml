@@ -1,0 +1,58 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<version>10.0</version>
+<Categorization Script>
+<Header copyright="STATISTICA Scorecard, Copyright (c) StatSoft, Inc., www.statsoft.com."/>
+<Variable Name>BUREAU_DAYS_CREDIT_MAX</Variable Name>
+<Destination Variable Name>BUREAU_DAYS_CREDIT_MAX_kat</Destination Variable Name>
+
+<Variable Type>Numeric</Variable Type>
+<Categorization Type>Kategorie</Categorization Type>
+<Number of Categories>5</Number of Categories>
+<UniqueCategories>5</UniqueCategories>
+
+<Category>
+	<Category Name>(-99999,-484></Category Name>
+	<WOE Value>37,767665583454</WOE Value>
+	<IV>0,0340020711</IV>
+	<From>-99999</From>
+	<To>-484</To>
+	<Exact Value>Empty</Exact Value>
+</Category>
+
+<Category>
+	<Category Name>(-484,-245></Category Name>
+	<WOE Value>17,10788240504</WOE Value>
+	<IV>0,0058473875</IV>
+	<From>-484</From>
+	<To>-245</To>
+	<Exact Value>Empty</Exact Value>
+</Category>
+
+<Category>
+	<Category Name>(-245,-62></Category Name>
+	<WOE Value>-11,9635779584885</WOE Value>
+	<IV>0,0042938093</IV>
+	<From>-245</From>
+	<To>-62</To>
+	<Exact Value>Empty</Exact Value>
+</Category>
+
+<Category>
+	<Category Name>(-62,inf)</Category Name>
+	<WOE Value>-51,0754103239569</WOE Value>
+	<IV>0,0252577783</IV>
+	<From>-62</From>
+	<To></To>
+	<Exact Value>Empty</Exact Value>
+</Category>
+
+<Category>
+	<Category Name>Brak</Category Name>
+	<WOE Value>-24,5287447309056</WOE Value>
+	<IV>0,00953345505527795</IV>
+	<From>Empty</From>
+	<To>Empty</To>
+	<Exact Value>-99999</Exact Value>
+</Category>
+
+</Categorization Script>

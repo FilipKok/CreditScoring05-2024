@@ -1,0 +1,58 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<version>10.0</version>
+<Categorization Script>
+<Header copyright="STATISTICA Scorecard, Copyright (c) StatSoft, Inc., www.statsoft.com."/>
+<Variable Name>PREVIOUS_APPLICATION_DAYS_DECISION_MIN</Variable Name>
+<Destination Variable Name>PREVIOUS_APPLICATION_DAYS_DECISION_MIN_kat</Destination Variable Name>
+
+<Variable Type>Numeric</Variable Type>
+<Categorization Type>Kategorie</Categorization Type>
+<Number of Categories>5</Number of Categories>
+<UniqueCategories>4</UniqueCategories>
+
+<Category>
+	<Category Name><-2790 & Brak</Category Name>
+	<WOE Value>33,8594816351529</WOE Value>
+	<IV>0,0113574091</IV>
+	<From></From>
+	<To>-2790</To>
+	<Exact Value>Empty</Exact Value>
+</Category>
+
+<Category>
+	<Category Name>(-2790,-1076></Category Name>
+	<WOE Value>11,722477370434</WOE Value>
+	<IV>0,0068663046</IV>
+	<From>-2790</From>
+	<To>-1076</To>
+	<Exact Value>Empty</Exact Value>
+</Category>
+
+<Category>
+	<Category Name>(-1076,-588></Category Name>
+	<WOE Value>-19,4075375782741</WOE Value>
+	<IV>0,0075086976</IV>
+	<From>-1076</From>
+	<To>-588</To>
+	<Exact Value>Empty</Exact Value>
+</Category>
+
+<Category>
+	<Category Name>(-588,inf)</Category Name>
+	<WOE Value>-26,9055742162366</WOE Value>
+	<IV>0,0143748448</IV>
+	<From>-588</From>
+	<To></To>
+	<Exact Value>Empty</Exact Value>
+</Category>
+
+<Category>
+	<Category Name><-2790 & Brak</Category Name>
+	<WOE Value>33,8594816351529</WOE Value>
+	<IV>0,0113574090654924</IV>
+	<From>Empty</From>
+	<To>Empty</To>
+	<Exact Value>-99999</Exact Value>
+</Category>
+
+</Categorization Script>

@@ -1,0 +1,85 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<version>10.0</version>
+<Categorization Script>
+<Header copyright="STATISTICA Scorecard, Copyright (c) StatSoft, Inc., www.statsoft.com."/>
+<Variable Name>EXT_SOURCE_3</Variable Name>
+<Destination Variable Name>EXT_SOURCE_3_kat</Destination Variable Name>
+
+<Variable Type>Numeric</Variable Type>
+<Categorization Type>Kategorie</Categorization Type>
+<Number of Categories>8</Number of Categories>
+<UniqueCategories>7</UniqueCategories>
+
+<Category>
+	<Category Name>(-99999,0,172495467></Category Name>
+	<WOE Value>-117,24215848653</WOE Value>
+	<IV>0,1087511884</IV>
+	<From>-99999</From>
+	<To>0,172495467</To>
+	<Exact Value>Empty</Exact Value>
+</Category>
+
+<Category>
+	<Category Name>(0,172495467,0,283711883></Category Name>
+	<WOE Value>-69,5171036196756</WOE Value>
+	<IV>0,0464637949</IV>
+	<From>0,172495467</From>
+	<To>0,283711883</To>
+	<Exact Value>Empty</Exact Value>
+</Category>
+
+<Category>
+	<Category Name>(0,28;046) & Brak</Category Name>
+	<WOE Value>-16,6204768878089</WOE Value>
+	<IV>0,0113659989</IV>
+	<From>0,283711883</From>
+	<To>0,461482391</To>
+	<Exact Value>Empty</Exact Value>
+</Category>
+
+<Category>
+	<Category Name>(0,461482391,0,546023197></Category Name>
+	<WOE Value>26,859752375937</WOE Value>
+	<IV>0,0071627115</IV>
+	<From>0,461482391</From>
+	<To>0,546023197</To>
+	<Exact Value>Empty</Exact Value>
+</Category>
+
+<Category>
+	<Category Name>(0,546023197,0,627990819></Category Name>
+	<WOE Value>49,6110303600177</WOE Value>
+	<IV>0,0245774868</IV>
+	<From>0,546023197</From>
+	<To>0,627990819</To>
+	<Exact Value>Empty</Exact Value>
+</Category>
+
+<Category>
+	<Category Name>(0,627990819,0,70918911></Category Name>
+	<WOE Value>68,8090024035038</WOE Value>
+	<IV>0,0447795974</IV>
+	<From>0,627990819</From>
+	<To>0,70918911</To>
+	<Exact Value>Empty</Exact Value>
+</Category>
+
+<Category>
+	<Category Name>(0,70918911,inf)</Category Name>
+	<WOE Value>93,2870307332591</WOE Value>
+	<IV>0,0808757914</IV>
+	<From>0,70918911</From>
+	<To></To>
+	<Exact Value>Empty</Exact Value>
+</Category>
+
+<Category>
+	<Category Name>(0,28;046) & Brak</Category Name>
+	<WOE Value>-16,6204768878089</WOE Value>
+	<IV>0,011365998945293</IV>
+	<From>Empty</From>
+	<To>Empty</To>
+	<Exact Value>-99999</Exact Value>
+</Category>
+
+</Categorization Script>

@@ -1,0 +1,31 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<version>10.0</version>
+<Categorization Script>
+<Header copyright="STATISTICA Scorecard, Copyright (c) StatSoft, Inc., www.statsoft.com."/>
+<Variable Name>REGION_RATING_CLIENT</Variable Name>
+<Destination Variable Name>REGION_RATING_CLIENT_kat</Destination Variable Name>
+
+<Variable Type>Numeric</Variable Type>
+<Categorization Type>Kategorie</Categorization Type>
+<Number of Categories>2</Number of Categories>
+<UniqueCategories>2</UniqueCategories>
+
+<Category>
+	<Category Name>(-inf,2></Category Name>
+	<WOE Value>7,87946642402389</WOE Value>
+	<IV>0,0050530971</IV>
+	<From></From>
+	<To>2</To>
+	<Exact Value>Empty</Exact Value>
+</Category>
+
+<Category>
+	<Category Name>(2,3></Category Name>
+	<WOE Value>-34,8851615598108</WOE Value>
+	<IV>0,0223718331</IV>
+	<From>2</From>
+	<To>3</To>
+	<Exact Value>Empty</Exact Value>
+</Category>
+
+</Categorization Script>

@@ -1,0 +1,85 @@
+<version>10.0</version>
+<?xml version="1.0" encoding="UTF-8" ?>
+<Categorization Script>
+<Header copyright="STATISTICA Scorecard, Copyright (c) StatSoft, Inc., www.statsoft.com."/>
+<Variable Name>NAME_INCOME_TYPE</Variable Name>
+<Destination Variable Name>NAME_INCOME_TYPE_kat</Destination Variable Name>
+
+<Variable Type>Categorical</Variable Type>
+<Categorization Type>Kategorie</Categorization Type>
+<Number of Categories>8</Number of Categories>
+<UniqueCategories>3</UniqueCategories>
+
+<Category>
+	<Category Name>Commercial associate</Category Name>
+	<WOE Value>7,16302189728215</WOE Value>
+	<IV>0,001155413</IV>
+	<From>Empty</From>
+	<To>Empty</To>
+	<Exact Value>Commercial associate</Exact Value>
+</Category>
+
+<Category>
+	<Category Name>Pensioner_Businessma_etc</Category Name>
+	<WOE Value>42,6396235069371</WOE Value>
+	<IV>0,0383750767</IV>
+	<From>Empty</From>
+	<To>Empty</To>
+	<Exact Value>Pensioner</Exact Value>
+</Category>
+
+<Category>
+	<Category Name>Pensioner_Businessma_etc</Category Name>
+	<WOE Value>42,6396235069371</WOE Value>
+	<IV>0,0383750767</IV>
+	<From>Empty</From>
+	<To>Empty</To>
+	<Exact Value>State servant</Exact Value>
+</Category>
+
+<Category>
+	<Category Name>Pensioner_Businessma_etc</Category Name>
+	<WOE Value>42,6396235069371</WOE Value>
+	<IV>0,0383750767</IV>
+	<From>Empty</From>
+	<To>Empty</To>
+	<Exact Value>Businessman</Exact Value>
+</Category>
+
+<Category>
+	<Category Name>Pensioner_Businessma_etc</Category Name>
+	<WOE Value>42,6396235069371</WOE Value>
+	<IV>0,0383750767</IV>
+	<From>Empty</From>
+	<To>Empty</To>
+	<Exact Value>Student</Exact Value>
+</Category>
+
+<Category>
+	<Category Name>Pensioner_Businessma_etc</Category Name>
+	<WOE Value>42,6396235069371</WOE Value>
+	<IV>0,0383750767</IV>
+	<From>Empty</From>
+	<To>Empty</To>
+	<Exact Value>Maternity leave</Exact Value>
+</Category>
+
+<Category>
+	<Category Name>Unemployed_Working</Category Name>
+	<WOE Value>-18,9929303057163</WOE Value>
+	<IV>0,0201569831</IV>
+	<From>Empty</From>
+	<To>Empty</To>
+	<Exact Value>Working</Exact Value>
+</Category>
+
+<Category>
+	<Category Name>Unemployed_Working</Category Name>
+	<WOE Value>-18,9929303057163</WOE Value>
+	<IV>0,0201569831</IV>
+	<From>Empty</From>
+	<To>Empty</To>
+	<Exact Value>Unemployed</Exact Value>
+</Category>
+
+</Categorization Script>
